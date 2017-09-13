@@ -17,7 +17,6 @@ namespace Entidades.Calculadora
         public static double operar(Numeros primerNumero, Numeros segundoNumero, string operador)
         {
             double resultado = 0;
-            operador = validarOperador(operador);
             if (!(segundoNumero.getNumero() == 0 && operador == "/"))
             {
                 switch (operador)
@@ -41,7 +40,7 @@ namespace Entidades.Calculadora
 
 
         /// <summary>
-        /// valida si el string es o no un operando valido
+        /// valida si un string es o no un operando valido
         /// </summary>
         /// <param name="operador">string </param>
         /// <returns>"+" si el operador no es correcto o el operador sin modificar si esta bien </returns>
