@@ -1,0 +1,4 @@
+C:\Users\Usuario\Desktop\TP_Laboratorio_II\TP.1\Calculadora.Marcos_Rey\obj\Debug\Calculadora_Marcos_Rey.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\TP_Laboratorio_II\TP.1\Calculadora.Marcos_Rey\obj\Debug\Calculadora_Marcos_Rey.Form1.resources
+C:\Users\Usuario\Desktop\TP_Laboratorio_II\TP.1\Calculadora.Marcos_Rey\obj\Debug\Calculadora.Marcos_Rey.Properties.Resources.resources
+C:\Users\Usuario\Desktop\TP_Laboratorio_II\TP.1\Calculadora.Marcos_Rey\obj\Debug\Calculadora_Marcos_Rey.csproj.GenerateResource.Cache
